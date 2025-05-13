@@ -23,7 +23,7 @@ CryptoTradingIS is a browser-based cryptocurrency trading simulator that lets yo
 
 - HTML, CSS, JavaScript
 - jQuery 3.7.1
-- Candlestick chart rendering with jQuery and canvas
+- Candlestick chart rendering with jQuery 
 
 
 
